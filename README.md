@@ -22,20 +22,12 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,python,javascript,html,css,bash" />
-  </a>
-  <br>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=spring,react,nodejs,bootstrap" />
-  </a>
-  <br>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,postgres,docker,git,linux,vscode" />
+    <img src="https://skillicons.dev/icons?i=java,python,javascript,html,css,bash,spring,react,nodejs,bootstrap,mysql,postgres,docker,git,linux,vscode" />
   </a>
 </p>
 
 * **Dica:** Para personalizar os ícones acima, acesse [**Skill Icons**](https://skillicons.dev/) e selecione as tecnologias que você usa.
-
+  
 ---
 
 ### 📊 Estatísticas do GitHub
