@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou Márcio Gusmão!
+# 👋 Olá, eu sou o Márcio Gusmão!
 
 ---
 
