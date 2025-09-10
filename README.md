@@ -25,8 +25,6 @@
     <img src="https://skillicons.dev/icons?i=java,spring,kotlin,python,mysql,postgres,git,github,docker,linux,vscode,idea,notion" />
   </a>
 </p>
-
-* **Dica:** Para personalizar os ícones acima, acesse [**Skill Icons**](https://skillicons.dev/) e selecione as tecnologias que você usa.
   
 ---
 
