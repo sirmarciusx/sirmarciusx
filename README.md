@@ -31,13 +31,11 @@
 ### 📊 Estatísticas do GitHub
 
 <p align="center">
-  <a href="https://github.com/SEU-USERNAME-DO-GITHUB">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU-USERNAME-DO-GITHUB&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USERNAME-DO-GITHUB&layout=compact&langs_count=7&theme=dracula"/>
+  <a href="https://github.com/sirmarciusx">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sirmarciusx&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sirmarciusx&layout=compact&langs_count=7&theme=dracula"/>
   </a>
 </p>
-
-* **Importante:** Não se esqueça de substituir `SEU-USERNAME-DO-GITHUB` pelo seu nome de usuário nos links acima para que as estatísticas funcionem.
 
 ---
 
