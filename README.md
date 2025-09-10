@@ -10,7 +10,6 @@
 - 🤔 Estou precisando de ajuda com... **[Algum desafio ou tecnologia específica]**
 - 💬 Pergunte-me sobre... **[Assuntos que você domina, ex: Suporte Técnico, Redes, etc.]**
 - 📫 Como me encontrar: **<a href="https://www.linkedin.com/in/marciogusmao/">Linkedin</a> / <a href="https://www.t.me/sirmarcius">Telegram</a> / <a href="mailto:marciogusmao@msn.com">E-mail</a>**
-- 😄 Pronomes: **[Ele/Dele, Ela/Dela, etc.]**
 
 ---
 
