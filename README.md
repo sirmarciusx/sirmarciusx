@@ -6,7 +6,7 @@
 
 - 🔭 Atualmente estou trabalhando como analista de suporte, mas buscando colocação na área de desenvolvimento.
 - 👯 Procuro colaborar em projetos da comunidade. Qualquer coisa me contacte.
-- 📫 Como me encontrar: **<a href="https://www.linkedin.com/in/marciogusmao/">Linkedin</a> / <a href="https://www.t.me/sirmarcius">Telegram</a> / <a href="mailto:marciogusmao@msn.com">E-mail</a>**
+- 📫 Como me encontrar: **<a href="https://www.linkedin.com/in/marciogusmao/" target="_blank">Linkedin</a> / <a href="https://www.t.me/sirmarcius" target="_blank" >Telegram</a> / <a href="mailto:marciogusmao@msn.com" target="_blank">E-mail</a>**
 
 ---
 
