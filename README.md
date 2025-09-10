@@ -9,7 +9,7 @@
 - 👯 Procuro colaborar em... **[Tipo de projeto que você gostaria de participar, ex: projetos open source em Java]**
 - 🤔 Estou precisando de ajuda com... **[Algum desafio ou tecnologia específica]**
 - 💬 Pergunte-me sobre... **[Assuntos que você domina, ex: Suporte Técnico, Redes, etc.]**
-- 📫 Como me encontrar: **[Seu e-mail ou link para o LinkedIn]**
+- 📫 Como me encontrar: **<a href="https://www.linkedin.com/in/marciogusmao/">Linkedin</a>**
 - 😄 Pronomes: **[Ele/Dele, Ela/Dela, etc.]**
 
 ---
